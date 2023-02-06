@@ -23,7 +23,7 @@ jobs:
           
       build:
           - name: Generate APK
-            runs-on: macOS
+            runs-on:macOS
           
           steps:
           - uses: actions/checkout@v2
