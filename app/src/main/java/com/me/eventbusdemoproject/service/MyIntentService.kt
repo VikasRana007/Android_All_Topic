@@ -11,6 +11,8 @@ class MyIntentService : IntentService("MyIntentService") {
         EventBus.getDefault().postSticky(MessageEvent(100, "Hello Every One :"))
 
 //        EventBus.getDefault().post(MessageEvent(Activity.RESULT_OK,"Inflate Event Bus Result"))
+        stopSelf()
     }
+
 
 }

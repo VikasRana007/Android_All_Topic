@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sign_up_overlay_bg">#191c24</color>
+    <color name="text_color_grey_register">#707070</color>
 </resources>

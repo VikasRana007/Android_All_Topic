@@ -3,4 +3,6 @@
     <string name="generate_event">Generate Event</string>
     <string name="check_event">Check Event</string>
     <string name="some_output">Some Output</string>
+    <string name="get_sum">Get Sum</string>
+    <string name="total_sum_here">Total Sum Here</string>
 </resources>
